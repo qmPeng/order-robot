@@ -1,0 +1,12 @@
+q¨©ngzh¨¥ng l¨²y¨²,0,1
+sh¨¤m¨¦n shu¨«zh¨³ hu¨®y¨²,0,10
+s¨¬chu¨¡n hu¨¢ngm¨¨n m¨¢n,0,10
+s¨­ngsh¨³ gu¨¬y¨²,2,10
+shu¨«zh¨³ y¨²,4,10
+su¨¡nc¨¤i y¨²,2,10
+q¨©ngzh¨¥ng l¨²y¨²,0,1
+sh¨¤m¨¦n shu¨«zh¨³ hu¨®y¨²,0,10
+s¨¬chu¨¡n hu¨¢ngm¨¨n m¨¢n,0,10
+s¨­ngsh¨³ gu¨¬y¨²,3,10
+shu¨«zh¨³ y¨²,4,10
+su¨¡nc¨¤i y¨²,2,10

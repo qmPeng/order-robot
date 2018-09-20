@@ -1,0 +1,6 @@
+Coca cola,20,3
+Sprite,20,3
+Pepsi,20,3
+Docter pepper,20,3
+Ji¨¡ du¨­ b¨£o,20,3
+N¨®ngf¨± sh¨¡n qu¨¢n,20,2
